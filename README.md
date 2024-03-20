@@ -169,6 +169,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | Chromis | Chromis | | Violence Programme (no longer running). |
 | CHS | Case Handling System | | Set of applications used by the Civil Legal Aid Operator Contact Centre and Specialist Legal Providers to manage Civil Legal Aid cases opened by members of the public in England and Wales. |
 | CICA | Criminal Injuries Compensation Authority | | "We deal with compensation claims from people who have been physically or mentally injured because they were the victim of a violent crime in England, Scotland or Wales." |
+| CILEX | Chartered Institute of Legal Executives | | |
 | CIPD | Chartered Institute of Personnel & Development | | |
 | CIRASS | Community Interventions, Residential and Accommodation Support Service | | |
 | CIS | Corporate Information System | | LAA thick client app for legacy legal aid case management. It handles legacy cases for civil certificated work (i.e. civil representation) Internal system only (no provider facing functions). Also used for other work unrelated to civil and family certificated work. Intention is to decommission this system when it is practical. |
@@ -287,6 +288,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | DfE | Department for Education | | The DfE is responsible for children's services and education, including higher and further education policy, apprenticeships and wider skills in England. |
 | DG | Data Gateway | | A central governance structure and process to regulate the collection of data across HMPPS |
 | DGAB | Data Governance Assurance Board | | |
+| DHCJ | Deputy High Court Judges | | |
 | DHSC | Department of Health and Social Care | | The Department of Health and Social Care leads, shapes and funds health and social care in England. |
 | DIB | Divisional Implementation Board | | |
 | DIC | death in custody | | |
@@ -437,6 +439,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | GSS | Government Statistical Services | | The Government Statistical Service (GSS) produces national statistics and other official statistics, analysis, interpretation and provides statistical advice to improve understanding and help decision-making. |
 | GWS | Government Wide Service | | |
 | HCC | Health Care Centre | | NHS facility in a prison |
+| HCJ | High Court Judges | | |
 | HDC | Home Detention Curfew | | A statutory scheme that allows the Secretary of State to release certain prisoners earlier than would otherwise be the case. It is designed to assist prisoners to resettle into the community.  |
 | HDCAD | Home Detention Curfew Approved Date | | |
 | HDCED | Home Detention Curfew Eligibility Date | | |
@@ -536,11 +539,13 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | JAC | Judicial Appointments Commission | | |
 | JC | Justices' clerk | | Legally-trained member of staff in a magistrates' court, who advises the mags (who are volunteers) on tricky questions about the law. |
 | JCHR | Joint Committee on Human Rights | | |
+| JCM | Judicial Case Manager | | | 
 | JES | Job Evaluation Scheme | | |
 | JETS | Juvenile Enhanced Thinking Skills | | General Offending Programme |
 | JHA | Justice and Home Affairs | | One of the policy areas of the Council of the European Union |
 | JIRPA | Joint Industrial Procedural Agreement | | |
 | JISL | Judicially Imposed Sentence Length | | NOMIS internal representation of sentence length as a single period term |
+| JPEG | Jurisdictional Public Engagement Groups | | |
 | JR | Judicial Review | | Judicial review is a type of court proceeding in which a judge reviews the lawfulness of a decision or action made by a public body. |
 | JS | JavaScript | | Computer code used predominantly in Web browsers to provide enhance user interaction. |
 | JS | Jury Summons | | |
@@ -641,6 +646,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | MPS | Moving People Safely | | |
 | MPSI | Ministers, Parliament, Strategy and implementation | | |
 | MQPL | Measuring the Quality of Prisoner Life | | |
+| MR | Master of the Rolls | | |
 | MSV | Most Serious Violence | | |
 | MTD | Mid Transfer Date | | |
 | MTP | Money To Prisoners | | Currently a working name for a project digitising the process of sending money to UK prisoners. |
@@ -925,8 +931,7 @@ sentences of over 1 day will be subject to spend a minimum of 12 months supervis
 | RAR | Rehabilitation Activity Requirement | | |
 | RBAC | Role Based Access Control | | |
 | RBCP | Regional Business Change Partner | | |
-"| RBCSM | Regional Business Change Manager | | A requirement introduced by the Offender Rehabilitation Act 2014 replacing the existing Supervision Requirement and Activity Requirement. The intention is to create
-a requirement that will enable providers to work with offenders with sufficient flexibility to meet their needs and more effectively rehabilitate them. |"
+| RBCSM | Regional Business Change Manager | | A requirement introduced by the Offender Rehabilitation Act 2014 replacing the existing Supervision Requirement and Activity Requirement. The intention is to create a requirement that will enable providers to work with offenders with sufficient flexibility to meet their needs and more effectively rehabilitate them. |
 | RBRu | Rapid Build Residential unit | | |
 | RC | Regional Change | | Incorrectly entered. Please see RCBP. |
 | RCJ | Royal Courts of Justice | | Contains both the High Court and Courts of Appeal, based on the Stand in London.Definitely *not* like a large County Court! |
